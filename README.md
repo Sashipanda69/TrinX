@@ -8,7 +8,7 @@ TrainX is a modern, responsive fitness and gym website template. Built with HTML
 
 ## 🌐 Live Demo
 
-🚀 [Visit TrainX Live](https://yourusername.github.io/trainx/)  
+🚀 [Visit TrainX Live](https://yourusername.github.io/Trainx/)  
 _(Replace with your actual GitHub Pages URL)_
 
 ---
